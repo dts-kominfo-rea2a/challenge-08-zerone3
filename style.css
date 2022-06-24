@@ -1,0 +1,26 @@
+* {
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
+#app {
+    margin-top: 2em;
+    max-width: 300px;
+}
+header {
+    padding: 1.5em;
+}
+section {
+    margin-bottom: 2em;
+}
+input {
+    padding: 5px 10px;
+    text-align: left;
+    margin-top: 1.5em;
+}
+button {
+    padding: 5px;
+    margin-top: 2em;
+    display: block;
+    box-shadow: 5px 5px;
+}
